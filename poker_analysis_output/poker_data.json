@@ -1,0 +1,51 @@
+{
+    "community_cards": [
+        {
+            "position": 0,
+            "image_path": "community_card_0.png",
+            "text": "Fa etaltsl*>"
+        }
+    ],
+    "current_player_hand": [
+        "SS",
+        "oI"
+    ],
+    "players": [
+        {
+            "position": 0,
+            "image_path": "player_0.png",
+            "info": "Lulu-Tim\n53.2 BB"
+        },
+        {
+            "position": 1,
+            "image_path": "player_1.png",
+            "info": "Ce\") C\nAKB48AK47\n46 BB"
+        },
+        {
+            "position": 2,
+            "image_path": "player_2.png",
+            "info": "i painn2603\n201 BB"
+        },
+        {
+            "position": 3,
+            "image_path": "player_3.png",
+            "info": "= a”\nPuzzle_\n89.6 BB"
+        },
+        {
+            "position": 4,
+            "image_path": "player_4.png",
+            "info": "tae __)\nJdudncil\n32.7 BB"
+        },
+        {
+            "position": 5,
+            "image_path": "player_5.png",
+            "info": "— Byi\n86 BB"
+        },
+        {
+            "position": 6,
+            "image_path": "player_6.png",
+            "info": "SS\nBatai77\n125.8 BB"
+        }
+    ],
+    "pot": "Jigith 66.5 BB"
+}
